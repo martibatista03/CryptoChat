@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> CryptoChat </title>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="/imatges/icono-pestanya.png"> 
+        <link rel="stylesheet" href="chat.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    </head>
+    <body>
+        <div id="carregant"> <div class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div> </div>
+        <div id="contenidor">
+            <div id="chat-box">                     <!-- bloc del chat que conté els missatges en si-->
+                <span id="output"></span>           <!-- bloc del chat on s'escriuen els misstges-->
+                <div id="actions"></div>            <!-- bloc del chat que conté les accions que s'estan fent (p.e. escribiendo...)-->
+            </div>
+            <div id="panell-missatges">
+                <span><input type="text" id="message" placeholder="Missatge" maxlength="103"></span>        <!-- text box en la que s'escriu el missatge-->
+                <span><button id="send"> <img class="imatge-send" src="/imatges/send.png"> </button></span>
+            </div>
+            <div id="limit-caracters"> &nbsp </div> 
+        </div>
+    </body>
+
+    <script src="/socket.io/socket.io.js" charset="utf-8"></script>
+    <script src="chat.js" charset="utf-8"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+</html>
+

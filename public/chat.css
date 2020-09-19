@@ -1,0 +1,330 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #34aeffda;
+}
+
+#carregant {
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    background-color: #ffffffc5;
+}
+
+#contenidor {
+    display: flex;
+    overflow: hidden;
+    margin-top: 10vh;
+    width: 65vw;
+    height: 75vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#chat-box {
+    overflow: auto;
+    margin-bottom: 17vh;
+    width: 65vw;
+}
+
+#output {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Pacifico', cursive;
+    line-height: 75px;
+}
+
+#actions {
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(4, 133, 255);
+    float: left;
+    clear: both;
+    margin-top: 15px;
+    margin-left: 3.5vw;
+}
+
+#panell-missatges {
+    position: absolute;
+    top: 75vh;
+    left: 50vw;
+    right: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5vh;
+}
+
+input[type = text] {
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    width: 50vw; 
+    font-size: 22px;
+    box-sizing: border-box;
+    background-color: rgba(221, 221, 221, 0.5);
+    border-width: 0;
+    border-radius: 20px;
+    margin-right: 2vw;
+}
+
+#send {
+    background-color: rgba(43, 152, 255, 0.925);
+    border-radius: 20%;
+    border-width: 0;
+}
+
+#send:hover {
+    background-color: rgba(119, 188, 253, 0.925);
+}
+
+.imatge-send {
+    width: 60px;
+    height: 60px;
+}
+
+#limit-caracters {
+    position: absolute;
+    top: 69.7vh;
+    left: 30vw;
+    right: 30vw;
+    display: flex;
+    justify-content: center;
+}
+
+#advertencia {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color: red;
+    background-color: #fd8181a1;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.missatges-enviats {
+    background-color:#1c99ffa1; 
+    line-height: 40px; 
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-radius: 40px;
+    float: right;
+    clear: both;
+    margin-top: 15px;
+    margin-right: 3vw;
+    max-width: 40vw;
+    word-break: break-all;
+}
+
+.missatges-rebuts {
+    background-color:#c2e3ffa1; 
+    line-height: 40px; 
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-radius: 40px;
+    float: left;
+    clear: both;
+    margin-top: 15px;
+    margin-left: 3vw;
+    max-width: 40vw;
+    word-break: break-all;
+}
+
+.benvinguda {
+    color: rgb(4, 133, 255);
+}
+
+/* MÒBIL */
+
+@media only screen and (max-width: 20cm) {
+    #contenidor {
+        margin-top: 2vh;
+        width: 90vw;
+        height: 88vh;
+        background-color: rgb(255, 255, 255);
+        border-radius: 15px;
+    }
+
+    #chat-box {
+        margin-bottom: 17vh;
+        width: 90vw;
+    }
+
+    #output {
+        font-size: 22px;
+        line-height: 50px;
+    }
+
+    #actions {
+        font-size: 15px;
+        margin-top: 15px;
+        margin-left: 5.5vw;
+    }
+
+    #panell-missatges {
+        top: 80vh;
+    }
+
+    input[type = text] {
+        padding: 13px;
+        border-radius: 10px;
+        width: 65vw; 
+        font-size: 15px;
+    }
+
+    .imatge-send {
+        height: 39px;
+        width: 36.5px;
+    }
+
+    #limit-caracters {
+        top: 74vh;
+        left: 10vw;
+        right: 10vw;
+    }
+    
+    #advertencia {
+        font-size: 11px;
+        padding: 10px;
+    }
+
+    .missatges-enviats {
+        line-height: 25px; 
+        font-size: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 60vw;
+    }
+
+    .missatges-rebuts {
+        line-height: 25px; 
+        font-size: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
+        max-width: 60vw;
+    }
+
+}
+
+/* MÒBIL (mentre escriu) */
+
+@media only screen and (max-height: 11cm) {
+  #panell-missatges {
+      top: 75vh;
+  }
+
+  input[type = text] {
+      padding: 13px;
+      border-radius: 10px;
+      width: 62vw; 
+      font-size: 15px;
+  }
+}
+
+/* Loader */
+
+.lds-roller {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .lds-roller div {
+    animation: lds-roller 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    transform-origin: 40px 40px;
+  }
+  .lds-roller div:after {
+    content: " ";
+    display: block;
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: rgb(18, 78, 243);
+    margin: -4px 0 0 -4px;
+  }
+  .lds-roller div:nth-child(1) {
+    animation-delay: -0.036s;
+  }
+  .lds-roller div:nth-child(1):after {
+    top: 63px;
+    left: 63px;
+  }
+  .lds-roller div:nth-child(2) {
+    animation-delay: -0.072s;
+  }
+  .lds-roller div:nth-child(2):after {
+    top: 68px;
+    left: 56px;
+  }
+  .lds-roller div:nth-child(3) {
+    animation-delay: -0.108s;
+  }
+  .lds-roller div:nth-child(3):after {
+    top: 71px;
+    left: 48px;
+  }
+  .lds-roller div:nth-child(4) {
+    animation-delay: -0.144s;
+  }
+  .lds-roller div:nth-child(4):after {
+    top: 72px;
+    left: 40px;
+  }
+  .lds-roller div:nth-child(5) {
+    animation-delay: -0.18s;
+  }
+  .lds-roller div:nth-child(5):after {
+    top: 71px;
+    left: 32px;
+  }
+  .lds-roller div:nth-child(6) {
+    animation-delay: -0.216s;
+  }
+  .lds-roller div:nth-child(6):after {
+    top: 68px;
+    left: 24px;
+  }
+  .lds-roller div:nth-child(7) {
+    animation-delay: -0.252s;
+  }
+  .lds-roller div:nth-child(7):after {
+    top: 63px;
+    left: 17px;
+  }
+  .lds-roller div:nth-child(8) {
+    animation-delay: -0.288s;
+  }
+  .lds-roller div:nth-child(8):after {
+    top: 56px;
+    left: 12px;
+  }
+  @keyframes lds-roller {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+
+
