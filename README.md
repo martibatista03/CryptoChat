@@ -29,10 +29,7 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
 
 1. Accedeix a CryptoChat des de dues diferents pestanyes de qualsevol navegador (ja sigui des de dos diferents dispositius o des d'un mateix).
 
-<span align="center">
-  <img width="160" src="https://i.imgur.com/QvBLt5E.png" alt="CryptoChat"/>
-</span>
-
-<span align="center">
-  <img width="160" src="https://i.imgur.com/QvBLt5E.png" alt="CryptoChat"/>
-</span>
+<div align="center">
+  <span> <img width="160" src="https://i.imgur.com/QvBLt5E.png" alt="CryptoChat"/> </span>
+  <span> <img width="160" src="https://i.imgur.com/QvBLt5E.png" alt="CryptoChat"/> </span>
+</div>
