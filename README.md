@@ -14,3 +14,5 @@ Disponible seguint la direcció web [https://cryptochat.es/](https://cryptochat.
 
 ## Tecnologies emprades
 CryptoChat ha estat desenvolupada amb les següents tecnologies:
+
+* Hola
