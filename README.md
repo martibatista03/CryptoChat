@@ -62,3 +62,5 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
 </div>
 
 <br />
+
+4. Un cop al xat, tots dos usuaris podràn enviar i rebre missatges encriptats en temps real. En aquest moment, en cas de que un dels dos usuaris decideixi abandonar la sala, l'altre executarà un refresh de la pàgina, tornant així a l'estat descrit anteriorment a l'espera d'intercanviar les claus de xifratge amb el proper usuari que entri a la sala.
