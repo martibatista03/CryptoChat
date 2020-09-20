@@ -171,7 +171,7 @@ function generador_p() {
 // GENERADOR CÍCLIC DE C_q
 
 function generador_Cq(p, q) {
-    // Candidat a crear el generador d'ordre q
+    // Candidat a crear el generador g d'ordre q
     var creador_generador = BigInt(Math.floor(Math.random() * (2 ** 53 - 2)) + 2);
 
     // Creació del candidat a partir del valor prèviament descrit
