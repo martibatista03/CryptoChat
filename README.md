@@ -8,7 +8,7 @@ Per a més informació tant del funcionament d'aquesta nova proposta de criptosi
   <img width="230" src="https://github.com/martibatista03/CryptoChat/blob/master/public/imatges/logo_cryptochat.jpg" alt="CryptoChat"/>
 </div>
 
-<div> &nbsp </div>
+<div style="padding:100px"> &nbsp </div>
 
 ## Taula de continguts
 ..* Tecnologies emprades
