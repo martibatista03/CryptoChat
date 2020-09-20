@@ -6,6 +6,9 @@ Per a més informació tant del funcionament d'aquesta nova proposta de criptosi
 
 Disponible seguint la direcció web [https://cryptochat.es/](https://cryptochat.es/) o escanejant el següent codi QR:
 
+<div align="center">
+  <img width="230" src="https://github.com/martibatista03/CryptoChat/blob/master/public/imatges/QRcryptochat.png" alt="CryptoChat"/>
+</div>
 
 <!--
 <div align="center">
