@@ -21,3 +21,4 @@ CryptoChat ha estat desenvolupada amb les següents tecnologies:
 1. Clona el repositori a través de [Git](https://git-scm.com/) o descarrega el fitxer Zip.
 2. Instal·la [Node.js](https://nodejs.org/en/).
 3. Accedeix amb la terminal al nou directori i executa ```npm install```.
+4. Tot seguit, executa ```npm start``` (per a inicialitzar el servidor local) o bé ```npm run dev``` (en cas de voler inicialitzar el servidor local amb la dependència de [nodemon](https://www.npmjs.com/package/nodemon)). 
