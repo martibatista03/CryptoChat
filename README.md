@@ -13,9 +13,9 @@ CryptoChat es troba disponible seguint la direcció web [https://cryptochat.es/]
 ## Tecnologies utilitzades
 CryptoChat ha estat desenvolupada amb les següents tecnologies:
 
-* Node.js - versió 12.16.2
-* Express - versió 4.17.1
-* Socket.io - versió 2.3.0
+* [Node.js](https://nodejs.org/en/) - versió 12.16.2
+* [Express](https://expressjs.com/) - versió 4.17.1
+* [Socket.io](https://socket.io/) - versió 2.3.0
 
 ## Instal·lació i ús
 1. Clona el repositori a través de [Git](https://git-scm.com/) o descarrega el fitxer Zip.
