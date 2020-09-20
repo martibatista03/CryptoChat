@@ -63,4 +63,14 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
 
 <br />
 
-4. Un cop al xat, tots dos usuaris podràn enviar i rebre missatges encriptats en temps real. En aquest moment, en cas de que un dels dos usuaris decideixi abandonar la sala, l'altre executarà un refresh de la pàgina, tornant així a l'estat descrit anteriorment a l'espera d'intercanviar les claus de xifratge amb el proper usuari que entri a la sala.
+4. Un cop al xat, tots dos usuaris podràn enviar i rebre missatges encriptats en temps real. En aquest moment, en cas de que un dels dos usuaris decideixi abandonar la sala, l'altre executarà un refresh de la pàgina, tornant així a l'estat descrit anteriorment, a l'espera d'intercanviar les claus de xifratge amb el proper usuari que hi entri.
+
+<br />
+
+<div align="center">
+  <span> <img width="160" src="https://i.imgur.com/jnvJBLH.png" alt="CryptoChat"/> </span>
+  <span> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </span>
+  <span> <img width="160" src="https://i.imgur.com/evchnCV.png" alt="CryptoChat"/> </span>
+</div>
+
+<br />
