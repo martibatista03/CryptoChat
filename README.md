@@ -34,3 +34,5 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
   <span> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </span>
   <span> <img width="160" src="https://i.imgur.com/QvBLt5E.png" alt="CryptoChat"/> </span>
 </div>
+
+2. Introdueix un nom d'usuari qualsevol de més de 3 caràcters a cadascuna de les pestanyes (per exemple, <i> usuari1 </i> i <i> usuari2 </i>). Tot seguit, escull un nom de sala qualsevol de més de 5 caràcters (en aquest cas comú en totes dues pestanyes) i presiona el botó <i> Entra </i>, arribant així a la següent pantalla:
