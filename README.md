@@ -77,3 +77,5 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
 
 ## Llicència
 Copyright © 2020 Martí Batista Obiols
+
+Tot el codi disponible en aquest repositori es troba sota la llicència GNU General Public License, versió 3 (per a més informació, consultar el fitxer [LICENSE](https://github.com/martibatista03/CryptoChat/blob/master/LICENSE)).
