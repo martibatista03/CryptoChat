@@ -31,6 +31,6 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
 
 <div align="center">
   <span> <img width="160" src="https://i.imgur.com/QvBLt5E.png" alt="CryptoChat"/> </span>
-  <span> &nbs </span>
+  <span> &nbsp </span>
   <span> <img width="160" src="https://i.imgur.com/QvBLt5E.png" alt="CryptoChat"/> </span>
 </div>
