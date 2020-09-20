@@ -115,7 +115,7 @@ function invers_multiplicatiu(a, m) { // a = nombre del que es calcula l'invers 
 
 function generador_p() {
 
-    // En primer lloc, el que farem serà generar un valor primer q de 1024 bits qualsevol
+    // En primer lloc, el que farem serà generar un valor primer q aleatori de 1024 bits 
     function generador_q() {
         // Llista de fragments que componen el candidat
         var components_primer = [];
