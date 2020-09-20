@@ -10,7 +10,7 @@ CryptoChat es troba disponible seguint la direcció web [https://cryptochat.es/]
   <img width="160" src="https://i.imgur.com/EWWmCzW.png"/>
 </div>
 
-## Tecnologies emprades
+## Tecnologies utilitzades
 CryptoChat ha estat desenvolupada amb les següents tecnologies:
 
 * Node.js - versió 12.16.2
