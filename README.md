@@ -52,3 +52,13 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
 <br />
 
 3. En aquest punt, els usuaris inicien la seva comunicació en xarxa, iniciant tot el protocol d'intercanvi de claus i xifratge primer amb el servidor i després amb l'altre usuari. Un cop finalitzat aquest procés, tots dos usuaris finalment podran accedir al xat:
+
+<br />
+
+<div align="center">
+  <span> <img width="160" src="https://i.imgur.com/evchnCV.png" alt="CryptoChat"/> </span>
+  <span> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </span>
+  <span> <img width="160" src="https://i.imgur.com/evchnCV.png" alt="CryptoChat"/> </span>
+</div>
+
+<br />
