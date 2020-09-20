@@ -74,3 +74,6 @@ Per a poder comprovar en primera persona el funcionament de CryptoChat poden seg
 </div>
 
 <br />
+
+## Llicència
+Copyright © 2020 Martí Batista Obiols
