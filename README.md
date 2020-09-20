@@ -10,12 +10,6 @@ Disponible seguint la direcció web [https://cryptochat.es/](https://cryptochat.
   <img width="160" src="https://github.com/martibatista03/CryptoChat/blob/master/public/imatges/QRcryptochat.png" alt="CryptoChat"/>
 </div>
 
-<!--
-<div align="center">
-  <img width="230" src="https://github.com/martibatista03/CryptoChat/blob/master/public/imatges/logo_cryptochat.jpg" alt="CryptoChat"/>
-</div>
--->
-
 ## Tecnologies emprades
 CryptoChat ha estat desenvolupada amb les següents tecnologies:
 
@@ -23,4 +17,6 @@ CryptoChat ha estat desenvolupada amb les següents tecnologies:
 * Express - versió 4.17.1
 * Socket.io - versió 2.3.0
 
-
+## Instal·lació
+1. Clona el repositori a través de [Git](https://git-scm.com/) o descarrega el fitxer Zip.
+2. Instal·la [Node.js](https://nodejs.org/en/).
