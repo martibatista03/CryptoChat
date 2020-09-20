@@ -4,15 +4,11 @@ CryptoChat és una aplicació web de missatgeria en directe on totes les dades t
 
 Per a més informació tant del funcionament d'aquesta nova proposta de criptosistema com del funcionament en sí de CryptoChat recomano consultar la memòria escrita del meu Treball de Recerca.
 
-</br>
-
+<!--
 <div align="center">
   <img width="230" src="https://github.com/martibatista03/CryptoChat/blob/master/public/imatges/logo_cryptochat.jpg" alt="CryptoChat"/>
 </div>
-
-
-## Taula de continguts
-..* Tecnologies emprades
+-->
 
 ## Tecnologies emprades
 CryptoChat ha estat desenvolupada amb les següents tecnologies:
