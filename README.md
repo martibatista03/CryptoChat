@@ -81,4 +81,4 @@ Copyright © 2020 Martí Batista Obiols
 Tot el codi disponible en aquest repositori es troba sota la llicència GNU General Public License, versió 3 (per a més informació, consultar el fitxer [LICENSE](https://github.com/martibatista03/CryptoChat/blob/master/LICENSE)).
 
 ## Contacte
-Pots posar-te en contacte amb l'autor a través de la següent adreça de correu electrònic: [mailto](martibatista03@gmail.com)
+Pots posar-te en contacte amb l'autor a través de la següent adreça de correu electrònic: [mailto](mailto:martibatista03@gmail.com)
