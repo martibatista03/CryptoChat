@@ -4,10 +4,10 @@ CryptoChat és una aplicació web de missatgeria en directe on totes les dades t
 
 Per a més informació tant del funcionament d'aquesta nova proposta de criptosistema com del funcionament en sí de CryptoChat recomano consultar la memòria escrita del meu Treball de Recerca.
 
-CryptoChat es troba disponible seguint la direcció web [https://cryptochat.es/](https://cryptochat.es/) o escanejant el següent codi QR:
+CryptoChat es troba disponible seguint la direcció web [https://crypto-chat.onrender.com/](https://crypto-chat.onrender.com/) o escanejant el següent codi QR:
 
 <div align="center">
-  <img width="160" src="https://i.imgur.com/EWWmCzW.png"/>
+  <img width="160" src="https://user-images.githubusercontent.com/71564709/214841516-87c1596f-0f88-4445-9730-32f33094011a.png"/>
 </div>
 
 ## Tecnologies utilitzades
